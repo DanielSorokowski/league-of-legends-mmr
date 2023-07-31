@@ -1,10 +1,14 @@
 {
   "files": {
-    "main.js": "/league-of-legends-mmr/static/js/main.0f76b8b5.js",
+    "main.css": "/league-of-legends-mmr/static/css/main.5aaceaa1.css",
+    "main.js": "/league-of-legends-mmr/static/js/main.9369e70e.js",
+    "static/media/YWO8us.webp": "/league-of-legends-mmr/static/media/YWO8us.af71f73d2332939c1e07.webp",
     "index.html": "/league-of-legends-mmr/index.html",
-    "main.0f76b8b5.js.map": "/league-of-legends-mmr/static/js/main.0f76b8b5.js.map"
+    "main.5aaceaa1.css.map": "/league-of-legends-mmr/static/css/main.5aaceaa1.css.map",
+    "main.9369e70e.js.map": "/league-of-legends-mmr/static/js/main.9369e70e.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f76b8b5.js"
+    "static/css/main.5aaceaa1.css",
+    "static/js/main.9369e70e.js"
   ]
 }
