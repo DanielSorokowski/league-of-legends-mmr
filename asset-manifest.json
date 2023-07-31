@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/league-of-legends-mmr/static/js/main.0f76b8b5.js",
+    "index.html": "/league-of-legends-mmr/index.html",
+    "main.0f76b8b5.js.map": "/league-of-legends-mmr/static/js/main.0f76b8b5.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0f76b8b5.js"
+  ]
+}
